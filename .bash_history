@@ -202,3 +202,41 @@ git commit -m "first commit"
 git status
 git log
 git log -p
+git status
+git push -u origin main
+git remote remove origin
+git remote add origin "https://$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@://github.com"
+git remote -v
+git push -u origin main
+git remote add origin "https://$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@github.com:Vinuthasm/practice_devops.git"
+git remote -v
+git push -u origin main
+ls
+git status
+clear
+ls
+mkdir git
+ls
+cd git
+git status
+git restore ../bash.bash_history
+git restore ../bash_history
+git restore ../.bash_history
+git status
+clear
+git log
+git remote -v
+git remote remove origin
+git remote -v
+ls
+git remote add origin git@github.com:Vinuthasm/practice_devops.git
+git remote -v
+git push -u origin main
+git remote remove origin
+git remote add origin "https://github.com"
+git push -u origin main
+git remote remove origin
+git remote add origin "https://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@github.com/Vinuthasm/practice_devops.git"
+git push -u origin main
+git log
+git status

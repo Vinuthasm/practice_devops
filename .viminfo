@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1788761233,,"wq!"
 :wq
 |2,0,1788329974,,"wq"
-:wq!
-|2,0,1788329809,,"wq!"
 :wq~
 |2,0,1788253987,,"wq~"
 
@@ -29,30 +29,48 @@
 # Registers:
 
 # File marks:
-'0  1  11  ~/demo2/sample.txt
-|4,48,1,11,1788329974,"~/demo2/sample.txt"
-'1  1  11  ~/demo2/sample.txt
-|4,49,1,11,1788329809,"~/demo2/sample.txt"
-'2  3  66  ~/third-script.sh
-|4,50,3,66,1788254816,"~/third-script.sh"
-'3  3  19  ~/sec-script.sh
-|4,51,3,19,1788253987,"~/sec-script.sh"
-'4  3  19  ~/sec-script.sh
-|4,52,3,19,1788253724,"~/sec-script.sh"
-'5  3  21  ~/sec-script.sh
-|4,53,3,21,1788253682,"~/sec-script.sh"
-'6  3  21  ~/sec-script.sh
-|4,54,3,21,1788253682,"~/sec-script.sh"
-'7  9  3  ~/sec-script.sh
-|4,55,9,3,1788253546,"~/sec-script.sh"
-'8  9  3  ~/sec-script.sh
-|4,56,9,3,1788253546,"~/sec-script.sh"
+'0  1  0  ~/README.md
+|4,48,1,0,1788761233,"~/README.md"
+'1  1  24  ~/.git/COMMIT_EDITMSG
+|4,49,1,24,1788760836,"~/.git/COMMIT_EDITMSG"
+'2  1  11  ~/demo2/sample.txt
+|4,50,1,11,1788329974,"~/demo2/sample.txt"
+'3  1  11  ~/demo2/sample.txt
+|4,51,1,11,1788329809,"~/demo2/sample.txt"
+'4  3  66  ~/third-script.sh
+|4,52,3,66,1788254816,"~/third-script.sh"
+'5  3  19  ~/sec-script.sh
+|4,53,3,19,1788253987,"~/sec-script.sh"
+'6  3  19  ~/sec-script.sh
+|4,54,3,19,1788253724,"~/sec-script.sh"
+'7  3  21  ~/sec-script.sh
+|4,55,3,21,1788253682,"~/sec-script.sh"
+'8  3  21  ~/sec-script.sh
+|4,56,3,21,1788253682,"~/sec-script.sh"
 '9  9  3  ~/sec-script.sh
 |4,57,9,3,1788253546,"~/sec-script.sh"
 
 # Jumplist (newest first):
+-'  1  0  ~/README.md
+|4,39,1,0,1788761233,"~/README.md"
+-'  1  24  ~/.git/COMMIT_EDITMSG
+|4,39,1,24,1788760836,"~/.git/COMMIT_EDITMSG"
+-'  1  24  ~/.git/COMMIT_EDITMSG
+|4,39,1,24,1788760836,"~/.git/COMMIT_EDITMSG"
 -'  1  11  ~/demo2/sample.txt
 |4,39,1,11,1788329974,"~/demo2/sample.txt"
+-'  1  11  ~/demo2/sample.txt
+|4,39,1,11,1788329974,"~/demo2/sample.txt"
+-'  1  11  ~/demo2/sample.txt
+|4,39,1,11,1788329974,"~/demo2/sample.txt"
+-'  1  11  ~/demo2/sample.txt
+|4,39,1,11,1788329974,"~/demo2/sample.txt"
+-'  1  11  ~/demo2/sample.txt
+|4,39,1,11,1788329809,"~/demo2/sample.txt"
+-'  1  11  ~/demo2/sample.txt
+|4,39,1,11,1788329809,"~/demo2/sample.txt"
+-'  1  11  ~/demo2/sample.txt
+|4,39,1,11,1788329809,"~/demo2/sample.txt"
 -'  1  11  ~/demo2/sample.txt
 |4,39,1,11,1788329809,"~/demo2/sample.txt"
 -'  3  66  ~/third-script.sh
@@ -63,6 +81,54 @@
 |4,39,3,66,1788254816,"~/third-script.sh"
 -'  3  66  ~/third-script.sh
 |4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  3  66  ~/third-script.sh
+|4,39,3,66,1788254816,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
+-'  1  0  ~/third-script.sh
+|4,39,1,0,1788254655,"~/third-script.sh"
 -'  1  0  ~/third-script.sh
 |4,39,1,0,1788254655,"~/third-script.sh"
 -'  1  0  ~/third-script.sh
@@ -88,6 +154,66 @@
 -'  3  19  ~/sec-script.sh
 |4,39,3,19,1788253987,"~/sec-script.sh"
 -'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253987,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
 |4,39,3,19,1788253724,"~/sec-script.sh"
 -'  3  19  ~/sec-script.sh
 |4,39,3,19,1788253724,"~/sec-script.sh"
@@ -103,156 +229,41 @@
 |4,39,3,19,1788253724,"~/sec-script.sh"
 -'  3  19  ~/sec-script.sh
 |4,39,3,19,1788253724,"~/sec-script.sh"
--'  3  21  ~/sec-script.sh
-|4,39,3,21,1788253682,"~/sec-script.sh"
--'  3  21  ~/sec-script.sh
-|4,39,3,21,1788253682,"~/sec-script.sh"
--'  3  21  ~/sec-script.sh
-|4,39,3,21,1788253682,"~/sec-script.sh"
--'  3  21  ~/sec-script.sh
-|4,39,3,21,1788253682,"~/sec-script.sh"
--'  3  21  ~/sec-script.sh
-|4,39,3,21,1788253682,"~/sec-script.sh"
--'  3  21  ~/sec-script.sh
-|4,39,3,21,1788253682,"~/sec-script.sh"
--'  3  21  ~/sec-script.sh
-|4,39,3,21,1788253682,"~/sec-script.sh"
--'  3  21  ~/sec-script.sh
-|4,39,3,21,1788253682,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253618,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253546,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253546,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253546,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253546,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253546,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253546,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253546,"~/sec-script.sh"
--'  9  3  ~/sec-script.sh
-|4,39,9,3,1788253546,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  0  ~/sec-script.sh
-|4,39,1,0,1788253448,"~/sec-script.sh"
--'  1  1  ~/file-script.sh
-|4,39,1,1,1788252669,"~/file-script.sh"
--'  1  1  ~/file-script.sh
-|4,39,1,1,1788252669,"~/file-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
+-'  3  19  ~/sec-script.sh
+|4,39,3,19,1788253724,"~/sec-script.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	*	1788761228	0
+	"	1	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1788760832	0
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
 
 > ~/demo2/sample.txt
 	*	1788329967	0
